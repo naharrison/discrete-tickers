@@ -25,7 +25,7 @@
 	      <configuration>
 	        <archive>
 	          <manifest>
-	            <mainClass>edu.ung.phys2212.LeastTimePath</mainClass>
+	            <mainClass>edu.ung.phys.Tickers</mainClass>
 	          </manifest>
 	        </archive>
 	        <descriptorRefs>
